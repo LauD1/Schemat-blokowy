@@ -1,77 +1,103 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.16">
   <diagram name="Strona-1" id="J24gfGAH-1uFBQOjHUU1">
-    <mxGraphModel dx="574" dy="295" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="956" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="NVnBdtR7ZTR1H0qItUt8-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NVnBdtR7ZTR1H0qItUt8-1" target="NVnBdtR7ZTR1H0qItUt8-2">
+        <mxCell id="me8-EaQ3Dr342DUM8kWb-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NVnBdtR7ZTR1H0qItUt8-1" target="NVnBdtR7ZTR1H0qItUt8-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NVnBdtR7ZTR1H0qItUt8-1" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Naważanie&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry y="120" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="NVnBdtR7ZTR1H0qItUt8-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NVnBdtR7ZTR1H0qItUt8-2" target="NVnBdtR7ZTR1H0qItUt8-3">
+        <mxCell id="me8-EaQ3Dr342DUM8kWb-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NVnBdtR7ZTR1H0qItUt8-1" target="NVnBdtR7ZTR1H0qItUt8-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NVnBdtR7ZTR1H0qItUt8-2" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Przesiewanie&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="120" width="80" height="40" as="geometry" />
+        <mxCell id="me8-EaQ3Dr342DUM8kWb-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="NVnBdtR7ZTR1H0qItUt8-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="599.8571428571429" y="440.28571428571433" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="NVnBdtR7ZTR1H0qItUt8-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NVnBdtR7ZTR1H0qItUt8-3" target="NVnBdtR7ZTR1H0qItUt8-4">
+        <mxCell id="me8-EaQ3Dr342DUM8kWb-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="NVnBdtR7ZTR1H0qItUt8-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="561" as="sourcePoint" />
+            <mxPoint x="1660" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NVnBdtR7ZTR1H0qItUt8-1" value="&lt;p style=&quot;line-height: 0%;&quot;&gt;&lt;font style=&quot;font-size: 5px;&quot;&gt;Naważanie&amp;nbsp;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 0%;&quot;&gt;&lt;font style=&quot;font-size: 5px;&quot;&gt;CUKR-0030-010&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 0%;&quot;&gt;&lt;font style=&quot;font-size: 5px;&quot;&gt;MAGN-0000-010&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 0%;&quot;&gt;&lt;font style=&quot;font-size: 5px;&quot;&gt;PLCB-002-280&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 0%;&quot;&gt;&lt;font style=&quot;font-size: 5px;&quot;&gt;SODU-0001-010&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 0%;&quot;&gt;&lt;font style=&quot;font-size: 5px;&quot;&gt;SOLI-0101-010&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 0%;&quot;&gt;&lt;font style=&quot;font-size: 5px;&quot;&gt;SPIR-0007-010&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 0%;&quot;&gt;&lt;font style=&quot;font-size: 5px;&quot;&gt;Woda oczyszczona&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="560" y="320" width="80" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="NVnBdtR7ZTR1H0qItUt8-2" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Przesiewanie&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;SOLI-0101-010&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;PLCB-0002-280&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="680" y="240" width="80" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="me8-EaQ3Dr342DUM8kWb-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="NVnBdtR7ZTR1H0qItUt8-3" target="NVnBdtR7ZTR1H0qItUt8-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NVnBdtR7ZTR1H0qItUt8-3" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Przygotowanie kleiku&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="120" width="80" height="40" as="geometry" />
+        <mxCell id="NVnBdtR7ZTR1H0qItUt8-3" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Przygotowanie kleiku&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;Woda oczyszczona&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;SPIR-0007-010&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;CUKR-0030-010&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="680" y="400" width="80" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="NVnBdtR7ZTR1H0qItUt8-4" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Granulacja mokra&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="120" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="NVnBdtR7ZTR1H0qItUt8-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NVnBdtR7ZTR1H0qItUt8-5" target="NVnBdtR7ZTR1H0qItUt8-18">
+        <mxCell id="me8-EaQ3Dr342DUM8kWb-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NVnBdtR7ZTR1H0qItUt8-4" target="NVnBdtR7ZTR1H0qItUt8-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NVnBdtR7ZTR1H0qItUt8-5" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Mieszanie wstępne&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="10" width="80" height="40" as="geometry" />
+        <mxCell id="NVnBdtR7ZTR1H0qItUt8-4" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Granulacja mokra&lt;/font&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;PRZE-0001-001&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;KLEI-0001-001&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="840" y="320" width="80" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="NVnBdtR7ZTR1H0qItUt8-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="NVnBdtR7ZTR1H0qItUt8-6" target="NVnBdtR7ZTR1H0qItUt8-18">
+        <mxCell id="me8-EaQ3Dr342DUM8kWb-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NVnBdtR7ZTR1H0qItUt8-5" target="NVnBdtR7ZTR1H0qItUt8-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NVnBdtR7ZTR1H0qItUt8-6" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Granulacja&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="80" width="80" height="40" as="geometry" />
+        <mxCell id="NVnBdtR7ZTR1H0qItUt8-5" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Mieszanie wstępne&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;GRAN-0001-001&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="950" y="350" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NVnBdtR7ZTR1H0qItUt8-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="NVnBdtR7ZTR1H0qItUt8-7" target="NVnBdtR7ZTR1H0qItUt8-18">
+        <mxCell id="me8-EaQ3Dr342DUM8kWb-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NVnBdtR7ZTR1H0qItUt8-6" target="NVnBdtR7ZTR1H0qItUt8-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NVnBdtR7ZTR1H0qItUt8-7" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Granulacja właściwa&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="160" width="80" height="40" as="geometry" />
+        <mxCell id="NVnBdtR7ZTR1H0qItUt8-6" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Granulacja&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;GRAN-0001-002&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1060" y="350" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NVnBdtR7ZTR1H0qItUt8-10" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="30" width="50" height="220" as="geometry" />
-        </mxCell>
-        <mxCell id="NVnBdtR7ZTR1H0qItUt8-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="NVnBdtR7ZTR1H0qItUt8-12" target="NVnBdtR7ZTR1H0qItUt8-18">
+        <mxCell id="me8-EaQ3Dr342DUM8kWb-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NVnBdtR7ZTR1H0qItUt8-7" target="NVnBdtR7ZTR1H0qItUt8-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NVnBdtR7ZTR1H0qItUt8-12" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Mielenie na mokro&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="230" width="80" height="40" as="geometry" />
+        <mxCell id="NVnBdtR7ZTR1H0qItUt8-7" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Granulacja właściwa&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;GRAN-0001-003&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1170" y="350" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NVnBdtR7ZTR1H0qItUt8-16" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
-          <mxGeometry x="464" y="95" width="26" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="NVnBdtR7ZTR1H0qItUt8-17" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
-          <mxGeometry x="464" y="175" width="26" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="NVnBdtR7ZTR1H0qItUt8-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NVnBdtR7ZTR1H0qItUt8-18" target="NVnBdtR7ZTR1H0qItUt8-19">
+        <mxCell id="me8-EaQ3Dr342DUM8kWb-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NVnBdtR7ZTR1H0qItUt8-12" target="NVnBdtR7ZTR1H0qItUt8-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NVnBdtR7ZTR1H0qItUt8-18" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Suszenie i mielenie granulatu&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="120" width="80" height="40" as="geometry" />
+        <mxCell id="NVnBdtR7ZTR1H0qItUt8-12" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Mielenie na mokro&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;GRAN-0001-004&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1280" y="350" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NVnBdtR7ZTR1H0qItUt8-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NVnBdtR7ZTR1H0qItUt8-19" target="NVnBdtR7ZTR1H0qItUt8-20">
+        <mxCell id="NVnBdtR7ZTR1H0qItUt8-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="NVnBdtR7ZTR1H0qItUt8-18" target="NVnBdtR7ZTR1H0qItUt8-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NVnBdtR7ZTR1H0qItUt8-19" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Homogenizacja&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="120" width="80" height="40" as="geometry" />
+        <mxCell id="NVnBdtR7ZTR1H0qItUt8-18" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Suszenie granulatu&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;GRAN-0001-004&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1387" y="340" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="NVnBdtR7ZTR1H0qItUt8-20" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Tabletkowanie&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="840" y="120" width="80" height="40" as="geometry" />
+        <mxCell id="NVnBdtR7ZTR1H0qItUt8-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="NVnBdtR7ZTR1H0qItUt8-19" target="NVnBdtR7ZTR1H0qItUt8-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NVnBdtR7ZTR1H0qItUt8-19" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Mielenie Granulatu&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;SUSZ-0001-001&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1500" y="340" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="me8-EaQ3Dr342DUM8kWb-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NVnBdtR7ZTR1H0qItUt8-20" target="me8-EaQ3Dr342DUM8kWb-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NVnBdtR7ZTR1H0qItUt8-20" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Homogenizacja&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;MIEL-0001-001&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1610" y="340" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="me8-EaQ3Dr342DUM8kWb-2" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Legenda:&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&amp;nbsp;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;b&gt;Granulacja mokra&lt;/b&gt; - połączone związki zawarte w przesiewaniu i przygotowaniu kleiku w granulacji mokrej oznaczone są jako PRZE-0001-001 i KLEI-0001-001.&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;b&gt;Mieszanie wstępne&lt;/b&gt; - wynik operacji oznaczono jako&amp;nbsp;GRAN-0001-001 (każda następna operacja indeks n+1).&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;b&gt;Suszenie granulatu&lt;/b&gt; - wynik operacji oznaczono jako&amp;nbsp;SUSZ-0001-001.&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;b&gt;Mielenie granulatu&lt;/b&gt; - wynik operacji oznaczono jako MIEL-0001-001&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;b&gt;Homogenizacja&lt;/b&gt; -&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;wynik operacji oznaczono jako HOMO-0001-001&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;labelPosition=center;verticalLabelPosition=middle;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry width="400" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="me8-EaQ3Dr342DUM8kWb-11" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Tabletkowanie&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;HOMO-0001-001&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1721" y="340" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="me8-EaQ3Dr342DUM8kWb-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.03;entryY=0.35;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="NVnBdtR7ZTR1H0qItUt8-2" target="NVnBdtR7ZTR1H0qItUt8-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="me8-EaQ3Dr342DUM8kWb-30" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="NVnBdtR7ZTR1H0qItUt8-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="560" as="sourcePoint" />
+            <mxPoint x="599.71" y="500" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="599.71" y="530" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
